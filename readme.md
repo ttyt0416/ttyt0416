@@ -1,18 +1,18 @@
-<h2> Hey there! I'm Yoon Yechan. :wave:<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+<h2> Hey there! I'm Yoon Yechan. :wave:</h2>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Flutter Application Development
+- 🌱 &nbsp; I’m currently learning Flutter Application Development
+- 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
 - 💼 &nbsp; Android developer and front-end web developer.
-- 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
 - ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress.
 
 <h3>🛠 Tech Stack</h3>
 
+- 🎓 &nbsp; I'm currently using <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 - 💻 &nbsp; Python | Dart | Java | C++
 - 🌐 &nbsp; Android | flutter | HTML | CSS | JavaScript | Bootstrap
 - 🛢 &nbsp; MySQL | Firebase | Xampp
